@@ -53,8 +53,8 @@ basicCC <- ggplot(dd2,aes(x=infected,y=prcnt*100,fill=treatment))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
   
-
-
+An overwhelming amount of the people who participated in the treatment did not become infected with aids = a typical occurrence in a clinical trial. However, of the people who became infected, 60% of them had received the treatment drug. This indicates that the drug was ineffective as the data shows the drug did not have any perceivable preventative effect against AIDS.
+  
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
