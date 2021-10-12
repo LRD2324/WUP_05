@@ -82,3 +82,6 @@ The Fisher exact test for count data affirmed the numerical speculation above by
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+  
+The first step taken was to identify the helper file necessary (Cat_Cat.rmd) because the data involve multiple factor variables. After, the parameters of the dataset were narrowed to regard solely the female portion of the study. Multiple graphical plots were used to show the percentage of the sample who acquired AIDS, and then the relationship between the drug treatment and infection in women. The results displayed that females receiving the treatment made up around 60% of those who acquired AIDS, while the other 40% simply received the placebo. Our Fisher and Chi-Square tests provide evidence via the miniscule calculated p-values, that there was a significant difference in infection manifestation based on taking and not taking the treatment. The null hypothesis is rejected as there is a difference, and the drug is not effective based on this sample.
+  
